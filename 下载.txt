@@ -19,3 +19,4 @@ Sublime Text ÊÇÒ»¸ö´úÂë±à¼­Æ÷£¬Ò²ÊÇHTMLºÍÉ¢ÎÄÏÈ½øµÄÎÄ±¾±à¼­Æ÷¡£Sublime Text¾ßÓĞÆ
 (6).Package Control£º²å¼ş°²×°
 (7).SideBarEnhancements£º²à±ßÀ¸²å¼ş
 (8).Theme - Nil£ºSideBarEnhancementsÆ¤·ô
+(9)Ò²ÊÇHTMLºÍÉ¢ÎÄÏÈ½øµÄÎÄ±¾±à¼­Æ÷
